@@ -31,6 +31,16 @@
     /* backdrop-filter: blur(60px); */
 }
 
+
+@media screen and (max-width: 560px) {
+    .interface {
+        width: 300px;
+        height: 420px;
+    }
+  }
+  
+
+
 .header{
     display: flex;
     /* border: 2px solid black; */
