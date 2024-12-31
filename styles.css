@@ -222,3 +222,28 @@
 
 
 }
+
+@media screen and (max-width: 560px) {
+    .humid-text{
+        font:1.4rem;
+    }
+
+    .wind-unit{
+        font: 0.8rem;
+    }
+
+    .wind-speed{
+        font: 0.8rem ;
+    }
+
+    .humid{
+        font: 1.4rem;
+    }
+
+    .city{
+        font: 1.7rem;
+    }
+    .temp{
+        font: 1.7rem;
+    }
+}
